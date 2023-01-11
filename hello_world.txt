@@ -1,0 +1,1 @@
+Here is some text in order to test and practice what I am learning about manipulating files and versions with Git
